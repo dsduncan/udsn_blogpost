@@ -36,7 +36,7 @@ finish with the file `dev_happiness.ipynb`.
 
 ## Results ##
 
-Results are given more fully in an upcoming Medium post.
+You can see the full writeup in my [post on Medium][3].
 
 The job satisfaction question is asked in a different way each year. However, 
 converting responses to a Likert scale (0-10 to match 2017) gives a reasonably
@@ -67,3 +67,4 @@ the the [Open Database License (ODbL)][2].
 
 [1]: https://insights.stackoverflow.com/survey
 [2]: http://opendatacommons.org/licenses/odbl/1.0/
+[3]: https://medium.com/@clonedgoodness/does-a-doctorate-make-you-a-happier-developer-462b12288889?sk=075a565fa5e3d6775fddc5d63dde1ce3
